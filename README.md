@@ -22,8 +22,8 @@
 - L’IA & la génération procédurale dans les jeux  
 
 ## 📫 Me contacter  
-- **Portfolio :** [Mon Portfolio](lucsarrazin.github.io/PortFolioLucSarrazin/)
-- **LinkedIn :** [LinkedIn](linkedin.com/in/lucsarrazin/)
+- **Portfolio :** [Mon Portfolio](https://lucsarrazin.github.io/PortFolioLucSarrazin/)
+- **LinkedIn :** [LinkedIn](https://linkedin.com/in/lucsarrazin/)
 - **Email :** luc.sarrazin@free.fr  
 - **GitHub :** [GitHub](https://github.com/LucSarrazin) 
 
