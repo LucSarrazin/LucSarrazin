@@ -22,10 +22,10 @@
 - L’IA & la génération procédurale dans les jeux  
 
 ## 📫 Me contacter  
-- **Portfolio :** [Lien vers ton portfolio]  
-- **LinkedIn :** [Ton profil LinkedIn]  
+- **Portfolio :** [Mon Portfolio](lucsarrazin.github.io/PortFolioLucSarrazin/)
+- **LinkedIn :** [LinkedIn](linkedin.com/in/lucsarrazin/)
 - **Email :** luc.sarrazin@free.fr  
-- **GitHub :** [Ton profil GitHub]  
+- **GitHub :** [GitHub](https://github.com/LucSarrazin) 
 
 ## ⚡ Fun fact  
 J’adore les **jeux rétro, la génération procédurale et les PNJ pilotés par l’IA** ! J’aime aussi coder des **bots Discord** pendant mon temps libre.  
