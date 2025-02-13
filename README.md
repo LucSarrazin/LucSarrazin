@@ -2,7 +2,7 @@
 
 🎮 Passionné par le **développement de jeux vidéo** et l’ingénierie logicielle.  
 💻 Actuellement en **BTS SIO SLAM** (Développement informatique et ingénierie logicielle).  
-🚀 Aspirant **programmeur de jeux vidéo**, intéressé par **Unity, Unreal Engine et la programmation bas niveau**.  
+🚀 Aspirant **programmeur de jeux vidéo**, intéressé par **Unity, Unreal Engine et la programmation**.  
 
 ## 👀 Ce qui m'intéresse  
 - **Développement de jeux vidéo** (Unity, Unreal Engine, C++, C#)  
