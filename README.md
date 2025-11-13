@@ -1,30 +1,27 @@
 # 👋 Salut, je suis Luc Sarrazin  
 
 🎮 Passionné par le **développement de jeux vidéo** et l’ingénierie logicielle.  
-💻 Actuellement en **BTS SIO SLAM** (Développement informatique et ingénierie logicielle).  
-🚀 Aspirant **programmeur de jeux vidéo**, intéressé par **Unity, Unreal Engine et la programmation**.  
+💻 Actuellement en étudiant en **Licence informatique parcours jeux vidéo** au **CNAM ENJMIN** et ancien diplomé d'un **BTS SIO option SLAM** (Développement informatique et ingénierie logicielle).  
+🚀 Révant d'être un **programmeur gameplay de jeux vidéo**, intéressé par **Unity, Unreal Engine et la programmation**.  
 
 ## 👀 Ce qui m'intéresse  
 - **Développement de jeux vidéo** (Unity, Unreal Engine, C++, C#)  
 - **Ingénierie logicielle** (Java, Python, Développement Web)  
-- **Design UI/UX** (Créer des interfaces modernes et attrayantes)  
-- **Cybersécurité et optimisation des performances**  
+- **Design UI/UX** (Créer des interfaces modernes et attrayantes) 
 
 ## 🌱 Ce que j’apprends actuellement  
-- **Développement avancé en C++ & Unreal Engine**  
-- **Programmation des physiques & de l’IA pour les jeux vidéo**  
-- **Développement backend avec Spring Boot & Node.js**  
+- **Développement avancé en C# / C++ & Unreal Engine / Unity**  
+- **Programmation des physiques & de PNJ pour les jeux vidéo**
 - **Principes UI/UX pour le web et les jeux vidéo**  
 
 ## 💞️ Je cherche à collaborer sur  
 - Des projets open-source de jeux vidéo  
 - Des applications web & du creative coding  
-- L’IA & la génération procédurale dans les jeux  
 
 ## 📫 Me contacter  
 - **Portfolio :** [Mon Portfolio](https://lucsarrazin.github.io/)
 - **LinkedIn :** [LinkedIn](https://linkedin.com/in/lucsarrazin/)
-- **Email :** luc.sarrazin@free.fr  
+- **Email :** luc.sarrazin15@gmail.com  
 - **GitHub :** [GitHub](https://github.com/LucSarrazin) 
 
 ## ⚡ Fun fact  
