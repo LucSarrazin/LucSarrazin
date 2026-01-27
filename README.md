@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="300" src="https://media.licdn.com/dms/image/v2/D4E35AQED4W1swh4LVg/profile-framedphoto-shrink_200_200/B4EZvhzeaiGoAY-/0/1769019926623?e=1770152400&v=beta&t=o36bogut2qnJzY_cW7WcTm8QI7rXadytjUgg_R3UpuU"  />
 
 ###
