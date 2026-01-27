@@ -1,4 +1,4 @@
-<h2 align="left">#👋 Salut, je suis Luc Sarrazin et je suis un étudiant en licence informatique parcours jeux vidéo au CNAM-ENJMIN</h2>
+<h2 align="left">Salut👋 ! Je suis Luc Sarrazin et je suis un étudiant en licence informatique parcours jeux vidéo au CNAM-ENJMIN</h2>
 
 ###
 
