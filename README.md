@@ -25,7 +25,7 @@
 - **GitHub :** [GitHub](https://github.com/LucSarrazin) 
 
 ## ⚡ Fun fact  
-J’adore les **jeux rétro, la création de jeux vidéo et aussi la glace à la vanille** ! J’aime aussi coder **durant mon temps libre** pendant mon temps libre.  
+J’adore les **jeux rétro, la création de jeux vidéo et aussi la glace à la vanille** ! J’aime aussi coder **durant mon temps libre**.  
 
 ---
 
