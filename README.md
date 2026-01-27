@@ -90,14 +90,6 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
-
-<br clear="both">
-
 🎮 Passionné par le **développement de jeux vidéo** et l’ingénierie logicielle.  
 💻 Actuellement en étudiant en **Licence informatique parcours jeux vidéo** au **CNAM ENJMIN** et ancien diplomé d'un **BTS SIO option SLAM** (Développement informatique et ingénierie logicielle).  
 🚀 Révant d'être un **programmeur gameplay de jeux vidéo**, intéressé par **Unity, Unreal Engine et la programmation**.  
@@ -131,4 +123,12 @@ J’adore les **jeux rétro, la création de jeux vidéo et aussi la glace à la
 
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
+<br clear="both">
 
