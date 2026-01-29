@@ -112,7 +112,7 @@
 - Des projets d'entreprises
 
 ## 📫 Me contacter  
-- **Portfolio :** [Mon Portfolio](https://lucsarrazin.github.io/)
+- **Portfolio :** [Mon Portfolio : https://lucsarrazin.github.io/](https://lucsarrazin.github.io/)
 - **LinkedIn :** [LinkedIn](https://linkedin.com/in/lucsarrazin/)
 - **Email :** luc.sarrazin15@gmail.com  
 - **GitHub :** [GitHub](https://github.com/LucSarrazin) 
