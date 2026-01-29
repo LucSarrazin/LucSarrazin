@@ -107,8 +107,9 @@
 - **Principes UI/UX pour le web et les jeux vidéo**  
 
 ## 💞️ Je cherche à collaborer sur  
-- Des projets open-source de jeux vidéo  
-- Des applications web & du creative coding  
+- Des projets de jeux vidéo  
+- Des applications web & application logicielle
+- Des projets d'entreprises
 
 ## 📫 Me contacter  
 - **Portfolio :** [Mon Portfolio](https://lucsarrazin.github.io/)
